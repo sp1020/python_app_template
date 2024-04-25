@@ -40,6 +40,7 @@ git init --bare
 
 ```
 cd NEW_PROJECT
+git init
 git add .
 git commit -m "a new application"
 ```
